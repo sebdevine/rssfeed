@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340991",
+          "author": "Chris Coyier",
+          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
+          "publishedOn": "2021-05-21T23:22:54.000Z",
+          "wordCount": 1166,
+          "title": "Should DevTools teach the CSS cascade?"
+        },
+        {
           "id": "https://css-tricks.com/?p=340825",
           "author": "Adam Rackis",
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-05-14T20:34:49.000Z",
           "wordCount": 2298,
           "title": "Auto-Generated Social Media Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340343",
-          "author": "Nathan Babcock",
-          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "publishedOn": "2021-05-14T14:14:34.000Z",
-          "wordCount": 1344,
-          "title": "Creating Stylesheet Feature Flags With Sass !default"
         }
       ]
     },
@@ -362,24 +362,6 @@
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         }
       ]
     },
