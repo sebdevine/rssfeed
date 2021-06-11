@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T00:05:20.791Z</id>
+    <id>https://sebdevine.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:05:20.791Z</updated>
+    <updated>2021-06-11T05:06:53.272Z</updated>
     <generator>osmosfeed 1.10.2</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://sebdevine.github.io/rssfeed/index.html"/>
+    <link rel="self" href="https://sebdevine.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
+        <id>https://css-tricks.com/?p=342050</id>
+        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
+        <updated>2021-06-11T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
+The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
         <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
@@ -567,16 +580,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

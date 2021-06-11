@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342050",
+          "author": "Chris Coyier",
+          "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
+          "publishedOn": "2021-06-11T00:16:28.000Z",
+          "wordCount": 535,
+          "title": "Put a Background on Open Details Elements"
+        },
+        {
           "id": "https://css-tricks.com/?p=341894",
           "author": "Kevin Powell",
           "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -521,20 +530,6 @@
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3516,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f773d7bb-df56-409f-a3fb-aa1e6e0eea09/4-birthday-picker.jpg",
             "length": "0",
             "type": "image/jpg"
           }
