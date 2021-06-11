@@ -1,5 +1,5 @@
 cacheUrl: https://sebdevine.github.io/rssfeed/cache.json
 sources:
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://www.gamekult.com/cobranding/rss/news.xml
+  - href: http://www.rockpapershotgun.com/feed/
+  - href: http://www.nintendolife.com/feeds/latest
